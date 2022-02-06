@@ -2,7 +2,7 @@
 <b> KANNADIGA BOT </b>
 </h1>
 
-[![KANNADIGA BOT](https://te.legra.ph/file/e1be79e4d3d61f7c85555.jpg)](https://github.com/MR-KANNADIGA/KANNADIGA-BOT)
+[![KANNADIGA BOT](https://te.legra.ph/file/e1be79e4d3d61f7c85555.jpg)](https://github.com/KANNADIGA-XD/KANNADIGA-BOT)
 
 <h6 align="center">
   <b>⭐̲ TELEGRAM'S 1ˢᵗ USERBOT OF KARNATAKA MADE BY MR KANNADIGA (PROFESSOR AGORA) ⭐̲</b>
@@ -25,7 +25,7 @@
 
 -----------
 
-- <a href="https://github.com/MR-KANNADIGA/KANNADIGA-BOT/network/members"><img src="https://img.shields.io/github/forks/MR-KANNADIGA/KANNADIGA-BOT?label=Forks&logoColor=Black&style=social"></a><p align="left">
+- <a href="https://github.com/KANNADIGA-XD/KANNADIGA-BOT/network/members"><img src="https://img.shields.io/github/forks/KANNADIGA-XD/KANNADIGA-BOT?label=Forks&logoColor=Black&style=social"></a><p align="left">
 
 - <a href="https://github.com/MR-KANNADIGA/KANNADIGA-BOT/stargazers"><img src="https://img.shields.io/github/stars/MR-KANNADIGA/KANNADIGA-BOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/MR-KANNADIGA/KANNADIGA-BOT"></a><p align="left"><a href="https://github.com/MR-KANNADIGA/KANNADIGA-BOT?"></a>
 
